@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 import './App.css';
 import Layout from "./page/Layout";
-import About from "./page/About";
+import Home from "./page/Home";
 import Contact from "./page/Contact";
 import Menu from "./page/Menu";
 import Cart from "./page/Cart";
@@ -19,7 +19,7 @@ export default function App() {
         <BrowserRouter>
           <Routes classname="navBar">
               <Route path="/" element={<Layout  />} >
-                   <Route index element={<About />} />
+                   <Route index element={<Home />} />
                    <Route path="contact" element={<Contact />} />
                    <Route path="menu" element ={<Menu />} />
                    <Route path="cart" element={<Cart />} />
