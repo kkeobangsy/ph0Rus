@@ -1,0 +1,294 @@
+body {
+  width: 100%;
+  height: auto;
+  background-color: #f6f918;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+li a{
+  display: block;
+  padding: 8px;
+}
+#subject {
+  width: 245px;
+  height: 360px;
+  margin: 20px 0 0 15px;
+}
+.App {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  background-color: #f6f918;
+}
+.App-logo {
+  max-height: 18vmin;
+  margin: 0;
+  padding: 0;
+}
+.about {
+  text-decoration: none;
+  font-size: 30px;
+  margin: 0 5px 0 5px;
+  padding: 0;
+  font-family: bodoni moda sc;
+  color: #617724;
+}
+.bag {
+  width: 50px;
+  height: auto;
+  margin: -30px 0 0 110px;
+  float: left;
+  background-color: #617724;
+}
+.bags{
+  width: 60px;
+  height: 50px;
+  margin:  0;
+  padding: 0;
+}
+.button {
+  width: 110px;
+  height: 30px;
+  float: left;
+  padding: 0;
+  margin: -30px 0 0 1300px;
+}
+.button1 {
+  width: 100px;
+  height: auto;
+  padding: 0;
+  margin: 10px 0 0 155px;
+}
+.brown {
+  width: 50%;
+  height: 310px;
+  padding: 0;
+  border: 0;
+  background-color: brown;
+  margin: 0 0 0 759.5px;
+}
+.box1 {
+  width: 100%;
+  height: 610px;
+  margin: 30px 0 0 0;
+  padding:0;
+  border: 0;
+}
+.contact{
+  text-decoration: none;
+  font-size: 30px;
+  margin: 0 5px 0 5px;
+  padding: 0;
+  font-family: bodoni moda sc;
+  color: #617724;
+}
+.contactBack {
+  width: 300px;
+  height: 550px;
+  margin: 0 0 0 350px;
+  padding: 0;
+  border: 0;
+  background-color: white;
+  float: left;
+}
+.desc {
+  width: 460px;
+  height: auto;
+  border: 0;
+  padding: 0;
+  margin: 0 0 0 45px;
+}
+.dollars {
+  width: 10px;
+  height: auto;
+  color: white;
+  margin: -38px 0 0 20px;
+}
+.email {
+  margin: 0;
+}
+.green {
+  width: 50%;
+  height: 310px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #617724;
+
+}
+.inpute {
+  width: 230px;
+  height: 20px;
+  margin: 0 0 0 20px;
+  padding: 0;
+}
+.inputn {
+  width: 230px;
+  height: 20px;
+  margin: 10px 0 0 20px;
+  padding: 0;
+  float: left;
+}
+.img {
+  width: 200px;
+  height: 50px;
+}
+.img1 {
+  width: 550px;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+}
+.img2 {
+  width: 550px;
+  height: 424px;
+  margin: 210px 0 0 0;
+  padding: 0;
+}
+.img3 {
+  width: 550px;
+  height: 426px;
+}
+.img4 {
+  width: 550px;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+}
+.itemName {
+  width: 210px;
+  height: auto;
+  margin: 0 0 0 20px;
+  border: 0
+}
+.massage {
+  width: 200px;
+  height: 200px;
+  padding: 15px 0 0 10px;
+
+}
+.list {
+  width: 60%;
+  height: auto;
+  margin: 20px 0 0 14px;
+}
+.main{
+  width: 1180px;
+  height: 638px;
+  background-color: white;
+  margin: 0 0 0 180px;
+  padding: 0;
+  float: left;
+}
+.menu {
+  text-decoration: none;
+  font-size: 30px;
+  margin: 0 5px 0 5px;
+  padding: 0;
+  font-family: bodoni moda sc;
+  color: #617724;
+}
+.name {
+  width: 50px;
+  height: 0;
+  margin: 0;
+  padding: 0 0 0 695px;
+  font-size: 100px;
+  float: left;
+  writing-mode: vertical-rl;
+  font-family: bodoni moda sc;
+  color: #617724;
+}
+.name1{
+  width: 50px;
+  height: 0;
+  padding: 160px 0 0 0;
+}
+.name2 {
+  width: 10px;
+  height: 10px;
+  margin: 0;
+}
+.nav {
+  float: left;
+}
+.navbar {
+  color: #617724;
+  float: left;
+}
+.pic {
+  width: 200px;
+  margin: 0;
+  padding: 0;
+}
+.pic1 {
+  width: 500px;
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
+.pic2 {
+  width: 500px;
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
+.pic3 {
+  width: 500px;
+  margin: 0 0 0 630px;
+  padding: 0;
+  float: left;
+}
+.pic4 {
+  width: 500px;
+  margin: 5px 0 0 630px;
+  float: left;
+}
+.pop {
+  width: 160px;
+  height: auto;
+  margin: 0 0 0 5px;
+  border: 0;
+}
+.popname {
+  margin: 0;
+}
+.popemail {
+  margin: 0;
+}
+.poppassword{
+  margin: 0;
+}
+.poprepassword {
+  margin: 0;
+}
+.popItem {
+  width: 100%;
+  height: auto;
+  margin: 35px 0 0 0;
+  background-color: white;
+}
+.topt {
+  width: 460px;
+  height: auto;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
