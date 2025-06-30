@@ -9,7 +9,7 @@ import spring from '../pic/spring.jpg';
 
 
 
-const About = () => {
+const Home = () => {
     return (
             <body>
             <div className='main'>
